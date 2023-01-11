@@ -15,3 +15,7 @@ Note: all the relative file paths below reference the steam game location "C:\Pr
 3. Creating a mod.
     - Following this will help you the most: https://melonwiki.xyz/#/modders/quickstart
     - You can use the example provided in this git to create your own mod. This example is a small cheat menu to change health and speed values.
+4. Using the mod
+    - Build your mod inside visual studio
+    - Copy your 1 dll build file from the bin/Debug folder and paste it in the mods folder within the game location.
+    - Play the game! 
